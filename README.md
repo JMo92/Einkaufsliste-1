@@ -4,7 +4,7 @@ author: Leonard
 date: 2021-11-04
 ---
 
-![](foto.jpg "Foto"){#id .callout}
+![](foto.jpg "Foto")
 
 ---
 
